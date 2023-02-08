@@ -28,7 +28,7 @@ body {
     text-align: center;
     background-color: whitesmoke;
 }
-  header {
+header {
     padding: 1em;
     text-align: center;
     color: #d6ccc2;
@@ -47,7 +47,7 @@ body {
     text-align: center;
     font-size: 1.2em;
 }
-  .home-title {
+.home-title {
     font-family: 'Rock Salt','Bradley Hand', sans-serif;
     font-size: 2em;
     margin-top: 10px;
